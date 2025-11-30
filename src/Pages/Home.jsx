@@ -54,7 +54,7 @@ export default function Hero() {
             className="px-6 py-2 sm:py-3 bg-green-500 hover:bg-green-600 rounded-full font-semibold text-white transition-all duration-300"
             whileHover={{ scale: 1.05 }}
           >
-            Explore Projects
+            Explore Project
           </motion.a>
 
           <motion.a
@@ -63,6 +63,7 @@ export default function Hero() {
             whileHover={{ scale: 1.05 }}
           >
             Get in Touch
+
           </motion.a>
         </div>
       </div>

@@ -1,28 +1,30 @@
-# Sarthak Adhikari Portfolio
+# 🌟 Sarthak Adhikari | Frontend Developer Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills as a Frontend Developer, my projects, and my passion for building interactive and visually appealing web experiences using React, Tailwind CSS, and Framer Motion.
+Welcome to my **personal portfolio**! This project showcases my skills, projects, and passion for building **interactive and visually stunning web experiences** using React, Tailwind CSS, and Framer Motion.  
 
 ---
 
 ## 🚀 Features
 
-- **Responsive Design:** Fully responsive layout optimized for mobile, tablet, and desktop screens.
-- **Hero Section:** Interactive hero with animated text, buttons, and profile image.
-- **Projects Showcase:** Display of featured projects with animated cards and category filters.
-- **Contact Section:** Contact form for easy communication.
-- **Animated UI:** Smooth entrance animations using Framer Motion.
-- **Bubble Background Effect:** Subtle background animation for a dynamic look.
-- **Dark Theme Ready:** Designed with dark gradient background for modern aesthetics.
+- **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.
+- **Interactive Hero Section** – Animated intro with profile image and action buttons.
+- **Projects Showcase** – Dynamic project cards with category filters.
+- **Contact Section** – Simple and clean form for reaching out.
+- **Framer Motion Animations** – Smooth transitions and hover effects.
+- **Bubble Background Effect** – Subtle animated background for a modern look.
+- **Dark-Theme Ready** – Dark gradient background for a sleek portfolio feel.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **React.js** – Frontend library for building UI components.
-- **Tailwind CSS** – Utility-first CSS framework for styling.
-- **Framer Motion** – Animation library for React.
-- **React Router DOM** – For smooth page navigation.
-- **Vite** or **Create React App** – Project bootstrapping (depending on setup).
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend framework |
+| Tailwind CSS | Styling & responsive design |
+| Framer Motion | Animations & motion design |
+| React Router DOM | Page navigation |
+| Vite / Create React App | Project setup |
 
 ---
 
