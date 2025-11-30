@@ -45,7 +45,6 @@ const About = () => {
     { name: "C++", level: "Intermediate" },
     { name: "Visual Basic", level: "Intermediate" },
     { name: "CSS", level: "Intermediate" },
-    { name: "Blockchain", level: "Beginner" },
     { name: "C", level: "Intermediate" },
   ];
 
