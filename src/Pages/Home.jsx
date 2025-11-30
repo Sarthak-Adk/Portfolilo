@@ -25,7 +25,8 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Hi, I'm <span className="text-blue-400">Sarthak Adhikari</span>
+          Hi, I am <span className="text-blue-400">Sarthak Adhikari</span>
+          
         </motion.h1>
 
         <motion.h2
