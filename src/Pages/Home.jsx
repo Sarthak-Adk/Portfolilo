@@ -25,8 +25,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Hi, I am <span className="text-blue-400">Sarthak Adhikari</span>
-          
+          Welcome! I'm <span className="text-green-400">Sarthak Adhikari</span>
         </motion.h1>
 
         <motion.h2
@@ -35,7 +34,7 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2 }}
         >
-          Frontend Developer | React Enthusiast
+          UI/UX & Frontend Developer
         </motion.h2>
 
         <motion.p
@@ -44,18 +43,18 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4 }}
         >
-          I love turning ideas into interactive, visually stunning web
-          experiences using React, Tailwind, and motion design. My goal is to
-          create digital products that are both functional and delightful to use.
+          I design and develop engaging web experiences with a focus on clean
+          UI, seamless interactions, and responsive layouts. I’m passionate
+          about building interfaces that users love to navigate.
         </motion.p>
 
         <div className="flex flex-wrap justify-center md:justify-start gap-4 pt-2">
           <motion.a
             href="#projects"
-            className="px-6 py-2 sm:py-3 bg-blue-500 hover:bg-blue-600 rounded-full font-semibold text-white transition-all duration-300"
+            className="px-6 py-2 sm:py-3 bg-green-500 hover:bg-green-600 rounded-full font-semibold text-white transition-all duration-300"
             whileHover={{ scale: 1.05 }}
           >
-            View My Work
+            Explore Projects
           </motion.a>
 
           <motion.a
@@ -63,7 +62,7 @@ export default function Hero() {
             className="px-6 py-2 sm:py-3 border border-gray-500 hover:bg-white/10 rounded-full font-semibold text-white transition-all duration-300"
             whileHover={{ scale: 1.05 }}
           >
-            Contact Me
+            Get in Touch
           </motion.a>
         </div>
       </div>
@@ -79,7 +78,7 @@ export default function Hero() {
           <img
             src={Profile}
             alt="Sarthak Adhikari"
-            className="w-full h-full object-cover rounded-full border-4 border-blue-500 shadow-lg shadow-blue-500/40 hover:scale-105 transition-all duration-500"
+            className="w-full h-full object-cover rounded-full border-4 border-green-500 shadow-lg shadow-green-500/40 hover:scale-105 transition-all duration-500"
           />
         </div>
       </motion.div>
