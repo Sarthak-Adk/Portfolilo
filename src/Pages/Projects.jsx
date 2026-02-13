@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import ProjectCard from "../Component/ProjectCard";
-import LearningApp from "../assets/learning-app.png";
-import CodeArena from "../assets/codearena.png";
+import LearningApp from "../assets/Learning-App.png"
+import CodeArena  from "../assets/CodeArena.png"
 import SalonManagementSystem from "../assets/salon-management-system.jpg";
-import WeatherApp from "../assets/weather-app.png";
-import BMI_Calculator from "../assets/bmi-calculator.png";
-import ATM from "../assets/atm.png";
+import WeatherApp from "../assets/Weather-App.png";
+import BMI_Calculator from "../assets/BMI-Calculator.png";
+import ATM from "../assets/ATM.png";
 
 import { 
   Bot, 
